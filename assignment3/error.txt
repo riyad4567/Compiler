@@ -1,0 +1,2 @@
+Line# 20: Type mismatch for argument 1 of 'var'
+Line# 20: Type mismatch for argument 2 of 'var'
